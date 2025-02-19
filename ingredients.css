@@ -6,7 +6,7 @@
   width: 60%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
-  border-bottom: solid 10px rgba(0,0,0,.1);
+  border-bottom: solid 10px rgba(0,0,0,.2);
 }
 
 .cheese {
@@ -26,7 +26,7 @@
 .meatball {
   height: 60px;
   width: 70px;
-  background: #74380d;
+  background: #521618;
   border-radius: 50px;
   display: inline-block;
   vertical-align: top;
@@ -37,7 +37,7 @@
   width: 65%;
   background: #ad370b;
   border-radius: 15px;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+  border-bottom: solid 2px rgba(0,0,0,.2);
 }
 
 .pickle {
@@ -51,7 +51,7 @@
 .onion {
   width: 40%;
   background-color: #a039bf;
-  border-top: dotted 20px rgba(255,255,255,.2);
+  border-top: dotted 20px rgba(255,255,255,.25);
 }
 
 .bun-bottom {
